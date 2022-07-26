@@ -5,6 +5,6 @@
 - 📫 How to reach me: Discord - holypeach#4303
 
 <!---
-OneHolyPeach/OneHolyPeach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HolyPeachy/HolyPeachy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
