@@ -5,7 +5,9 @@ I am a 22 year old who loves science, technology, and is fascinated by the compl
 I started learning to program around 6 years ago, when I realized it was the logical next step in my journey with computers. In that time I learned bits and pieces, enough to have fun. But around a year ago I started to take programming more seriously for I aim to become a competent programmer.
 
 ---
-<strong>🗃️ In my GitHub you will find simple and beginner friendly projects, but as time passes they will increase in number and complexity!</strong>
+🗃️ In my GitHub you will find simple and beginner friendly projects, but as time passes they will increase in number and complexity!
+
+🎩 I am also part of a small game dev team I formed with some friends: <a href="https://github.com/TeaPot-TopHats" target="_blank"><strong>TeaPot TopHats</strong></a>
 
 ---
 ### 🧪 Languages and Tools
