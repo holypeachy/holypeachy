@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @HolyPeachy! Most friends online call me Peach.
-- 👀 I am interested in a lot of things. Piano and music, competitive video games (CS:GO), Biochemistry (I'm a BMB Major with a Chemistry Minor), and programming!
-- 🌱 I’m currently learning C# and Unity. But I've used C++ and Python in the past when I started programming. I would like to return to C++ in the future.
-- 💞️ I’m not looking to collaborate on anything right now. I have a wonderful little dev team that I formed with some friends during University to do game jams.
-- 📫 How to reach me:  
-Discord - holypeach#4303  
-Email - frankberm3@gmail.com
+# 🍑 HolyPeach
+**`Curiosity Fueled`** **`Professional Scientist | Hobbyist Programmer | Amateur Musician`**
 
-<!---
-HolyPeachy/HolyPeachy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a 22 year old who loves science, technology, and is fascinated by the complex. I am currently finishing my studies at **Bellarmine University** in *Biochemistry and Molecular Biology,* with a *Minor in Chemistry*. I am starting my professional career as a Biochemist and pursuing my passion for computers and programming.  
+I started learning to program around 6 years ago, when I realized it was the logical next step in my journey with computers. In that time I learned bits and pieces, enough to have fun. But around a year ago I started to take programming more seriously for I aim to become a competent programmer.
+
+---
+<strong>🗃️ In my GitHub you will find simple and beginner friendly projects, but as time passes they will increase in number and complexity!</strong>
+
+---
+### 🧪 Languages and Tools
+<img align="left" alt="HTML" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Unity" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
