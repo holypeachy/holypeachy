@@ -17,3 +17,4 @@ I started learning to program around 6 years ago, when I realized it was the log
 <img align="left" alt="Python" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Unity" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
