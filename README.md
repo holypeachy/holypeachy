@@ -1,4 +1,4 @@
-# 🍑 HolyPeach
+# 🍑 holypeach
 **`Curiosity Fueled`** **`Professional Scientist | Hobbyist Programmer | Amateur Musician`**
 
 I am a 22 year old who loves science, technology, and is fascinated by the complex. I am currently finishing my studies at **Bellarmine University** in *Biochemistry and Molecular Biology,* with a *Minor in Chemistry*. I am starting my professional career as a Biochemist and pursuing my passion for computers and programming.  
