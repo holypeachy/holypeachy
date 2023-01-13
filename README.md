@@ -25,4 +25,4 @@ I started learning to program around 6 years ago, when I realized it was the log
 
 ---
 #### ⚠️ Disclaimer
-HolyPeach is a relatively common name if looked up. I do not have any social media accounts by this name, so any accounts that appear under this name are not mine.
+holypeach is a relatively common name if looked up. I do not have any social media accounts by this name, so any accounts that appear under this name are not mine.
