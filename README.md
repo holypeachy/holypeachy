@@ -11,7 +11,7 @@ I started learning to program around 6 years ago, when I realized it was the log
 🗃️ In my GitHub you will find simple and beginner friendly projects, but as time passes they will increase in number and complexity!
 
 🎩 I am part of a small game dev team I formed with some friends from Uni: <a href="https://github.com/TeaPot-TopHats"><strong>TeaPot TopHats</strong></a>  
-- We've been doing game jams due to lack of time but we'll get back to working on our big project soon!
+- We've been doing game jams due to a lack of time but we'll get back to working on our big project soon!
 
 ---
 ### 🧪 Languages and Tools
