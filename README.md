@@ -15,7 +15,7 @@ I started learning to program around 6 years ago, when I realized it was the log
 
 ---
 ### 🧪 Languages and Tools
-<p>I have used these in the past but I am most comfortable with C#. I am currently working with C# and Unity.</p>
+<p>I have touched on these in the past but I am most comfortable with C#. I am currently working with C# and Unity.</p>
 <img align="left" alt="HTML" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
