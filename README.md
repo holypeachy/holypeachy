@@ -7,6 +7,8 @@ I started learning to program around 6 years ago, when I realized it was the log
 > 🧑‍💻 Currently Working On: <a href="https://github.com/holypeachy/HolyAudio2D">🍑HolyAudio2D</a>  
 > 🗄️ On Hold: <a href="https://github.com/TeaPot-TopHats/The-Teshuva-Project">The-Teshuva-Project</a> (by TeaPot TopHats).
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holypeachy&show_icons=true&theme=radical)  
+
 ---
 🗃️ In my GitHub you will find simple and beginner friendly projects, but as time passes they will increase in number and complexity!
 
