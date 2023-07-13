@@ -1,5 +1,5 @@
 # 🍑 holypeach
-**`Curiosity Fueled`** **`Professional Scientist | Hobbyist Programmer | Amateur Musician`**
+**`Curiosity Fueled`** **`Professional Scientist | Amateur Programmer | Hobbyist Musician`**
 
 I am a 22 year old who loves science, technology, and is fascinated by the complex. I recently graduated from **Bellarmine University** with a Major in *Biochemistry and Molecular Biology,* with a *Minor in Chemistry*. I am starting my professional career as a Biochemist and pursuing my passion for computers and programming.  
 I started learning to program around 6 years ago, when I realized it was the logical next step on my journey with computers. In that time I learned bits and pieces, enough to have fun. But around a year ago I started to take programming more seriously and I aim to become a competent programmer.  
