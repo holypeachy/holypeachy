@@ -1,19 +1,25 @@
 # 🍑 holypeach
-**`Curiosity Fueled`** **`Professional Scientist | Amateur Programmer | Hobbyist Musician`**
+**`Curiosity Fueled`** **`Professional Scientist | Amateur Programmer`**
 
-I am a 23 year old who loves science, technology, and is fascinated by the complex. I recently graduated from **Bellarmine University** with a Major in *Biochemistry and Molecular Biology,* with a *Minor in Chemistry*. I am starting my professional career as a Biochemist and pursuing my passion for computers and programming.  
-I started learning to program around 7 years ago, when I realized it was the logical next step on my journey with computers. In that time I learned bits and pieces, enough to have fun. But around two years ago I started to take programming more seriously and I aim to become a competent programmer.  
-  
-> 🧑‍💻 Currently Working On: <a href="https://github.com/holypeachy/HolyAudio2D">🍑HolyAudio2D</a>  
-> 🗄️ On Hold: <a href="https://github.com/TeaPot-TopHats/The-Teshuva-Project">The-Teshuva-Project</a> (by TeaPot TopHats).
+I am a 23 year old who loves science, technology, and is fascinated by the complex. I recently graduated from **Bellarmine University** with a Major in *Biochemistry and Molecular Biology,* and a *Minor in Chemistry*. I will soon be starting my professional career as a Biochemist and everyday I pursue my passion for computers and programming by completing personal projects and projects with friends.  
+
+I started learning to program around 7 years ago, when I realized it was the logical next step on my journey with computers. During those first years I learned bits and pieces, enough to have fun. But around 2 years ago I started to take programming more seriously and I aim to become a competent programmer. As of right now, I feel like I have a grasp on a lot of the major concepts of programming and I enjoy seeing everyday how my understanding of this world expands more and more.  
+
+> #### 🧑‍💻 Currently Working On:  
+> - <a href="https://github.com/holypeachy/HolyAudio2D">🍑HolyAudio2D</a>
+> - A Discord Bot using Python (soon to be public on my repos)
+
+> #### 🗄️ On Hold:  
+> - <a href="https://github.com/TeaPot-TopHats/The-Teshuva-Project">The-Teshuva-Project</a> (by TeaPot TopHats).
+
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holypeachy&show_icons=true&theme=radical)  
 
 ---
-🗃️ In my GitHub you will find simple and beginner friendly projects, but as time passes they will increase in number and complexity!
+> 🗃️ **On my GitHub** you will find C# .NET and Unity personal projects. I am also using python for a discord bot I'm working on with a friend but I am not yet too comfortable with it.
 
-🎩 I am part of a small game dev team I formed with some friends from Uni: <a href="https://github.com/TeaPot-TopHats"><strong>TeaPot TopHats</strong></a>  
-- We've been doing game jams due to a lack of time but we'll get back to working on our big project soon!
+> 🎩 **I am part** of a small game dev team I formed with some friends from Uni: <a href="https://github.com/TeaPot-TopHats"><strong>TeaPot TopHats</strong></a>  
+> - We've been doing game jams due to a lack of time but we'll get back to working on our big project soon!
 
 ---
 ### 🧪 Languages and Tools
