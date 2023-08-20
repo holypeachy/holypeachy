@@ -9,7 +9,7 @@ I started learning to program around 7 years ago, when I realized it was the log
 - <a href="https://github.com/holypeachy/HolyAudio2D">🍑HolyAudio2D</a>
 - A Discord Bot using Python (soon to be public on my repos)
 
-### 🗄️ On Hold:  
+#### 🗄️ On Hold:  
 - <a href="https://github.com/TeaPot-TopHats/The-Teshuva-Project">The-Teshuva-Project</a> (by TeaPot TopHats).
 
 ---
