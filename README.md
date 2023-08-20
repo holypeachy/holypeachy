@@ -5,17 +5,18 @@ I am a 23 year old who loves science, technology, and is fascinated by the compl
 
 I started learning to program around 7 years ago, when I realized it was the logical next step on my journey with computers. During those first years I learned bits and pieces, enough to have fun. But around 2 years ago I started to take programming more seriously and I aim to become a competent programmer. As of right now, I feel like I have a grasp on a lot of the major concepts of programming and I enjoy seeing everyday how my understanding of this world expands more and more.  
 
-**🧑‍💻 Currently Working On:**  
+#### 🧑‍💻 Currently Working On:  
 - <a href="https://github.com/holypeachy/HolyAudio2D">🍑HolyAudio2D</a>
 - A Discord Bot using Python (soon to be public on my repos)
 
-**🗄️ On Hold:**  
+#### 🗄️ On Hold:  
 - <a href="https://github.com/TeaPot-TopHats/The-Teshuva-Project">The-Teshuva-Project</a> (by TeaPot TopHats).
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holypeachy&show_icons=true&theme=radical)  
 
 #
+### 🐙 My Github
 **🗃️ On my GitHub** you will find C# .NET and Unity personal projects. I am also using python for a discord bot I'm working on with a friend but I am not yet too comfortable with it.
 
 **🎩 I am part** of a small game dev team I formed with some friends from Uni: <a href="https://github.com/TeaPot-TopHats"><strong>TeaPot TopHats</strong></a>  
@@ -34,7 +35,7 @@ I started learning to program around 7 years ago, when I realized it was the log
 <br>
 <br>
 
-**📚 Libraries and Others**  
+#### 📚 Libraries and Others  
 - [Raylib](https://www.raylib.com) [(C#)](https://github.com/ChrisDill/Raylib-cs)
 - [Discordpy](https://github.com/Rapptz/discord.py) (Python)
 
