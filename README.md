@@ -32,6 +32,11 @@ I started learning to program around 7 years ago, when I realized it was the log
 <img align="left" alt="Unity" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <br>
+<br>
+
+**📚 Libraries and Others**  
+- [Raylib](https://www.raylib.com) [(C#)](https://github.com/ChrisDill/Raylib-cs)
+- [Discordpy](https://github.com/Rapptz/discord.py) (Python)
 
 ---
 #### ⚠️ Disclaimer
