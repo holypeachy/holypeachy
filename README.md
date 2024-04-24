@@ -43,5 +43,3 @@ I started learning to program around 7 years ago, when I realized it was the log
 - [Discordpy](https://github.com/Rapptz/discord.py) (Python)
 
 ---
-#### ⚠️ Disclaimer
-holypeach is a relatively common name if looked up. I do not have any social media accounts by this name, so any accounts that appear under this name are not mine.
