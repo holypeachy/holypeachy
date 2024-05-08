@@ -6,7 +6,7 @@ I am a 23 year old who loves science, technology, and is fascinated by the compl
 I started learning to program around 7 years ago, when I realized it was the logical next step on my journey with computers. During those first years I learned bits and pieces, enough to have fun. But around 2 years ago I started to take programming more seriously and I aim to become a competent programmer. As of right now, I feel like I have a grasp on a lot of the major concepts of programming and I enjoy seeing everyday how my understanding of this world expands more and more.  
 
 ### 🧑‍💻 Currently Working On:  
-- Nothing, getting used to work and figuring life out!
+- A super secret project! Nothing exciting but it has been very difficult for me, and I've enjoyed getting back into the programming game.
 
 #### 🗄️ On Hold:  
 - A Discord Bot using Python ([cakebot](https://github.com/holypeachy/cakebot))
