@@ -43,6 +43,7 @@ I've played around with computers all my life and programming seemed like the lo
 - ASP.NET (MVC, Blazor Server, Blazor WASM, Razor Pages, Minimal Web API)
   - Entity Framework Core
   - Identity Framework
+  - Microsoft SQL Server Express
 - [Raylib](https://github.com/ChrisDill/Raylib-cs) (C#)
 - [Discordpy](https://github.com/Rapptz/discord.py) (Python)
 
