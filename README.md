@@ -25,7 +25,7 @@ I've played around with computers all my life and programming seemed like the lo
 
 ---
 ### 🧪 Languages and Tools
-<p>I have touched on these in the past but I am most comfortable with C#. I am currently working with .NET and ASP.NET.<br/>These are sorted based on my confidence with each.</p>
+<p>I am currently working with .NET and ASP.NET.<br/>These are sorted based on my confidence with each.</p>
 <img align="left" alt="C#" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Blazor" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
