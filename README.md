@@ -13,7 +13,7 @@ I've played around with computers all my life and programming seemed like the lo
 
 ### 🧑‍💻 Currently Working On:  
 - Personal ASP.NET projects to practice my understanding of the framework. Latest one is [BookCat](https://github.com/holypeachy/BookCat).
-- A Poker game. Currently a prototype: [PokerProto](https://github.com/holypeachy/PokerProto).
+- A Poker game. Currently the [PokerEngine](https://github.com/holypeachy/PokerEngine).
 
 ### 🗄️ Future Work:  
 - The poker engine for my game: [PokerAlgo](https://github.com/holypeachy/PokerAlgo). v1.0 is released on Nuget but there are a few major features I would like to add.
