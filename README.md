@@ -7,7 +7,7 @@ I've played around with computers all my life and programming seemed like the lo
 **🗃️ On my GitHub** you will find C# .NET, ASP.NET, and Unity personal projects.
 
 **🎩 I am part** of a small game dev team I formed with some friends from Uni: <a href="https://github.com/TeaPot-TopHats"><strong>TeaPot TopHats</strong></a>  
-> We are not doing anything together as of right now but we still communicate actively about the personal projects we are working on. Our hope is to gain experience individually before attempting another project.
+> We are now working on a super secret project!
 
 ---
 
