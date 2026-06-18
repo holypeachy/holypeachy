@@ -1,50 +1,75 @@
 # 🍑 holypeach
-**` Love Software Engineering `**  **` I make anything I find interesting: Web Apps | Video Games | Bots | Tooling `**  
 
-I've played around with computers all my life and programming seemed like the logical next step. I've been programming for about 7 years and have been taking it more seriously for about 4. I love to understand the architecture of code, I hate black boxes, and I love docs (I know, crazy). My dream is to contribue to the Linux kernel one day, but I haven't had the chance to learn C (and Rust later on) which I would love to get into. I have a lot of ambitions that require a lot of learning.
+**`Software Engineer`**
+**`I build whatever I find interesting: backends, web apps, games, bots, tools, and little low-level experiments.`**
 
-### 🐙 My Github
-**🗃️ On my GitHub** you will find C# .NET, ASP.NET, and Unity personal projects.
+I've played around with computers all my life, and eventually programming became the natural next step. I've been programming for about 8 years, and taking it more seriously for about 5.
 
-**🎩 I am part** of a small game dev team I formed with some friends from Uni: <a href="https://github.com/TeaPot-TopHats"><strong>TeaPot TopHats</strong></a>  
-> We are now working on a super secret project!
+I like understanding how things work under the hood. I care about architecture, simplicity, and docs. I hate black boxes, and I enjoy building things from scratch.
 
----
+Right now, my focus is Go and lower-level systems programming. One of my dreams is to contribute to the Linux kernel, which means C and Rust are definitely on the roadmap.
 
-### 🧑‍💻 Currently Working On:  
-- Personal ASP.NET projects to practice my understanding of the framework. Latest one is [BookCat](https://github.com/holypeachy/BookCat).
-- A Poker game. Currently the [PokerEngine](https://github.com/holypeachy/PokerEngine).
+> I use Fedora KDE btw (not Arch, I know). Helix as my editor (not nvim, I know), and a shameful VS Code (with Helix motions duh) for when I need a debugger.
 
-### 🗄️ Future Work:  
-- The poker engine for my game: [PokerAlgo](https://github.com/holypeachy/PokerAlgo). v1.0 is released on Nuget but there are a few major features I would like to add.
-- I would like to port my discord bot ([cakebot](https://github.com/holypeachy/cakebot)), originally written in Python to C#.
-- A few personal projects that involve hardware and low level code.
 
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holypeachy&show_icons=true&theme=radical)  
+## 🐙 My GitHub
 
----
-### 🧪 Languages and Tools
-<p>I am currently working with .NET and ASP.NET.<br/>These are sorted based on my confidence with each.</p>
+On here you’ll find personal projects mainly built with Go and C#. But also Unity and Python.
+
+I’m also part of a small game dev team I formed with friends from university: <a href="https://github.com/TeaPot-TopHats"><strong>TeaPot TopHats</strong></a>
+
+> We are working on a super secret project.
+
+## 🧑‍💻 Currently Working On
+
+* [A Go backend project](https://github.com/holypeachy/EventsAppBackend)
+* Small tools and experiments when I get curious enough.
+* A poker game and poker engine (on pause):
+  * [PokerGame](https://github.com/holypeachy/PokerGame)
+  * [PokerAlgo](https://github.com/holypeachy/PokerAlgo)
+
+
+## 🗄️ Future Work
+
+* Really need to get into JavaScript :(
+* Continue my poker engine and poker game
+* Keep exploring low level stuff (C)
+* Learn 6502 Assembly
+
+
+## 🧪 Languages and Tools
+
+I switched to Go as my main language. I’m currently focused on Go and backend development, but .NET/C# is still the thing I know best.
+
+### Languages
+
+<img align="left" alt="Go" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Blazor" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img align="left" alt="Unity" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Godot" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+
+
 <br>
 <br>
 
-#### 📚 Frameworks, Libraries, and Others  
-- ASP.NET (MVC, Blazor Server, Blazor WASM, Razor Pages, Minimal Web API)
-  - Entity Framework Core
-  - Identity Framework
-  - Microsoft SQL Server Express
-- [Raylib](https://github.com/ChrisDill/Raylib-cs) (C#)
-- [Discordpy](https://github.com/Rapptz/discord.py) (Python)
+### Frameworks, Libraries, and Tools
 
----
+* Go
+  * chi | pgx | jwt
+  * PostgreSQL
+* .NET / ASP.NET
+  * MVC | Razor Pages | Blazor Server | Blazor WASM | Minimal Web API
+  * Entity Framework Core
+  * Identity Framework
+  * SQL Server Express
+* Game Development
+  * Unity
+  * Godot
+  * Raylib-cs
+* Other
+  * Git
+  * Linux
+  * Discord bots
