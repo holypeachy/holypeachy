@@ -1,6 +1,6 @@
 # 🍑 holypeach
 
-**`Software Engineer`**
+**`Software Engineer Larper`**
 **`I build whatever I find interesting: backends, web apps, games, bots, tools, and little low-level experiments.`**
 
 I've played around with computers all my life, and eventually programming became the natural next step. I've been programming for about 8 years, and taking it more seriously for about 5.
