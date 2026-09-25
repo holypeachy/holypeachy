@@ -23,7 +23,6 @@ I would like to build more projects that are deployed and used by people. Lately
 - I would like to learn Odin but that might take a while. Also HTMX to use Go + HTMX + Postgres as my main web stack.
 - I got inspired by a Cyberpunk 2077 arcade game to make a little bullet hell game for the Game Boy Advance
 - Hardware Project Ideas
-  - I want to write a little DHT library to interact with a DHT sensor directly, mostly as a learning exercise
   - It would be nice to experiment more with hardware and circuits. I  have ideas for a custom GBA cart to make the GBA work as a Bluetooth controller.
   - It would be cool to make a little clock-like device that shows the current phase of the moon with an LED array.
 
