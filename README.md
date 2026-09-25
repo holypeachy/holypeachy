@@ -57,5 +57,5 @@ Go is my go to (ha!) personal language, but I have done considerably more with C
 - Databases
   - PostgreSQL | SQL Server Express
 - Other
-  - Git | Linux | Windows
+  - Git | Linux | Windows | VxWorks
   - Raspberry Pi | GPIO
