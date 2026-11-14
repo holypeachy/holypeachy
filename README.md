@@ -13,10 +13,12 @@ Fun fact, I didn't study Computer Science but rather Biochemistry and Molecular 
 
 I would like to build more projects that are deployed and used by people. Lately I've been really interested in compilers, operating systems, and hardware. I have a ton of ideas for projects that involve working directly with hardware.
 
-- [Events App Backend in go](https://github.com/holypeachy/EventsAppBackend) for some friends
+- Operating systems: Linux and VxWorks
+  - [ThermoPi](https://github.com/holypeachy/ThermoPi), involves hardware!
 - My long running Texas Hold'em project, I would like for it to be a multiplayer game some day:
   - [PokerGame](https://github.com/holypeachy/PokerGame)
   - [PokerAlgo](https://github.com/holypeachy/PokerAlgo), which is pretty much finished
+- [Events App Backend in go](https://github.com/holypeachy/EventsAppBackend) for some friends
 
 
 ### Things I Want to Build
